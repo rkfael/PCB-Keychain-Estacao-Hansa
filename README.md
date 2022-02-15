@@ -6,11 +6,13 @@ A creative idea to gift friends and subscribers to my YouTube channel called 'Es
 
 I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IYB)
 
-You can order the fabrication according to your preferences of color, thickness, PCB material and more, but in that case, the QR code will only be functional in the white color of the solder mask.
+You can order the fabrication according to your preferences of color, thickness, PCB material and more.
+
+Note that for the correct functioning of the QR code, when using the white solder mask color, it is necessary to download the gerber file for the white color, as indicated below: 
 
 Download Prodution File (White Color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12%20-%20White_2022-02-14.zip)
 
-Download Prodution File (All JLCPCB colors except the white color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12%20-%20White_2022-02-14.zip)
+Download Prodution File (All JLCPCB colors except the white color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12_2022-02-14.zip)
 
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
