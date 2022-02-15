@@ -16,7 +16,7 @@ Download Prodution File (All *JLCPCB* colors except the white color): [Gerber](h
 
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
-**Watch the video**
+**Watch the video:**
 
 [![PCB Art Time-Lapse](https://img.youtube.com/vi/iwTtymEMrco/0.jpg)](https://youtu.be/iwTtymEMrco "PCB Art Time-Lapse")
 
