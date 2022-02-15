@@ -12,9 +12,11 @@ Note that for the correct functioning of the QR code, when using the white solde
 
 Download Prodution File (White Color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12%20-%20White_2022-02-14.zip)
 
-Download Prodution File (All JLCPCB colors except the white color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12_2022-02-14.zip)
+Download Prodution File (All *JLCPCB* colors except the white color): [Gerber](https://github.com/rkfael/PCB-Keychain-Estacao-Hansa/blob/main/Gerber_Locomotiva%20G12_2022-02-14.zip)
 
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
+
+https://youtu.be/iwTtymEMrco
 
 **Some Pictures:**
 
