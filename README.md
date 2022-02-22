@@ -4,7 +4,7 @@
 
 A creative idea to gift friends and subscribers to my YouTube channel called 'Estação Hansa' where I post videos about train rides and share a little bit of tourism in Brazil, especially the city where I live. 
 
-I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IYB)
+I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
